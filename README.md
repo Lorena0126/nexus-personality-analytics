@@ -1,10 +1,3 @@
-# NEXUS // Personality Analytics
+# NEXUS — Personality Intelligence
 
-A fictional personality dashboard built with Python and Streamlit.
-
-## Run locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Luxury pastel-pink personality analytics demo built with Python and Streamlit.
